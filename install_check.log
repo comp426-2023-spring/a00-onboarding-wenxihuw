@@ -5,4 +5,4 @@ SHELL:	[/bin/bash]
 GIT:	[/usr/bin/git] git version 2.32.1 (Apple Git-133)
 VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Apr 19 2022 21:42:29)
 CURL:	[/Users/huwenxi/opt/anaconda3/bin/curl] curl 7.84.0 (x86_64-apple-darwin13.4.0) libcurl/7.84.0 OpenSSL/1.1.1q zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
-NODE:	[/usr/local/bin/node] v18.12.1
+NODE:	[/Users/huwenxi/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
